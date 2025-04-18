@@ -1,0 +1,66 @@
+# ===============================
+# Visual Studio / Rider / VS Code
+# ===============================
+.vs/                         # Visual Studio local settings
+*.suo                        # Solution user options
+*.user                       # User-specific files
+*.userosscache               # User cache
+*.sln.docstates              # Visual Studio doc state
+
+.idea/                       # Rider
+.vscode/                     # VS Code
+
+# ===============================
+# Build outputs
+# ===============================
+[Bb]in/                      # Compiled binaries
+[Oo]bj/                      # Intermediate files
+artifacts/                   # Optional publish folder
+
+# ===============================
+# NuGet / Package Manager
+# ===============================
+*.nupkg                      # NuGet packages
+packages/                    # NuGet package output
+.nuget/                      # NuGet global packages
+
+# ===============================
+# ASP.NET Core logs & debug
+# ===============================
+logs/                        # Log folder
+*.log                        # Log files
+iisexpress/                  # IIS Express applicationhost.config
+
+# ===============================
+# User secrets & config
+# ===============================
+appsettings.Development.json # Local development settings
+secrets.json                 # User secrets file
+Properties/launchSettings.json  # Debug launch settings
+
+# ===============================
+# Entity Framework & databases
+# ===============================
+Migrations/                  # EF Core migrations
+*.db                         # SQLite databases
+*.db-journal                 # SQLite journal files
+
+# ===============================
+# Temporary & misc files
+# ===============================
+*.ilk                        # Incremental linker files
+*.meta                       # Unity meta files (if any)
+*.tmp                        # Temp files
+*.obj                        # Object files
+*.pdb                        # Debug symbol files
+
+# ===============================
+# Front-end (if applicable)
+# ===============================
+node_modules/                # Node.js packages
+
+# ===============================
+# OS generated
+# ===============================
+.DS_Store                    # macOS
+Thumbs.db                    # Windows thumbnail cache
