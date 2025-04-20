@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Giray\\Projects\\My_Portfolio_Website\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B97ACADB-788D-4468-913B-620FDA28E4F9}|My_Portfolio_Website.csproj|c:\\users\\giray\\projects\\my_portfolio_website\\dal\\entities\\portfolio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B97ACADB-788D-4468-913B-620FDA28E4F9}|My_Portfolio_Website.csproj|solutionrelative:dal\\entities\\portfolio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B97ACADB-788D-4468-913B-620FDA28E4F9}|My_Portfolio_Website.csproj|c:\\users\\giray\\projects\\my_portfolio_website\\dal\\context\\myportfoliocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B97ACADB-788D-4468-913B-620FDA28E4F9}|My_Portfolio_Website.csproj|solutionrelative:dal\\context\\myportfoliocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B97ACADB-788D-4468-913B-620FDA28E4F9}|My_Portfolio_Website.csproj|c:\\users\\giray\\projects\\my_portfolio_website\\dal\\entities\\socialmedia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B97ACADB-788D-4468-913B-620FDA28E4F9}|My_Portfolio_Website.csproj|solutionrelative:dal\\entities\\socialmedia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B97ACADB-788D-4468-913B-620FDA28E4F9}|My_Portfolio_Website.csproj|c:\\users\\giray\\projects\\my_portfolio_website\\dal\\entities\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B97ACADB-788D-4468-913B-620FDA28E4F9}|My_Portfolio_Website.csproj|solutionrelative:dal\\entities\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B97ACADB-788D-4468-913B-620FDA28E4F9}|My_Portfolio_Website.csproj|c:\\users\\giray\\projects\\my_portfolio_website\\dal\\entities\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B97ACADB-788D-4468-913B-620FDA28E4F9}|My_Portfolio_Website.csproj|solutionrelative:dal\\entities\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B97ACADB-788D-4468-913B-620FDA28E4F9}|My_Portfolio_Website.csproj|c:\\users\\giray\\projects\\my_portfolio_website\\dal\\entities\\feature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,8 +27,12 @@
       "RelativeMoniker": "D:0:0:{B97ACADB-788D-4468-913B-620FDA28E4F9}|My_Portfolio_Website.csproj|solutionrelative:dal\\entities\\experience.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B97ACADB-788D-4468-913B-620FDA28E4F9}|My_Portfolio_Website.csproj|c:\\users\\giray\\projects\\my_portfolio_website\\dal\\entities\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B97ACADB-788D-4468-913B-620FDA28E4F9}|My_Portfolio_Website.csproj|solutionrelative:dal\\entities\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B97ACADB-788D-4468-913B-620FDA28E4F9}|My_Portfolio_Website.csproj|c:\\users\\giray\\projects\\my_portfolio_website\\dal\\entities\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B97ACADB-788D-4468-913B-620FDA28E4F9}|My_Portfolio_Website.csproj|solutionrelative:dal\\entities\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B97ACADB-788D-4468-913B-620FDA28E4F9}|My_Portfolio_Website.csproj|c:\\users\\giray\\projects\\my_portfolio_website\\dal\\entities\\portfolio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B97ACADB-788D-4468-913B-620FDA28E4F9}|My_Portfolio_Website.csproj|solutionrelative:dal\\entities\\portfolio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B97ACADB-788D-4468-913B-620FDA28E4F9}|My_Portfolio_Website.csproj|c:\\users\\giray\\projects\\my_portfolio_website\\dal\\entities\\about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,19 +55,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Portfolio.cs",
-              "DocumentMoniker": "C:\\Users\\Giray\\Projects\\My_Portfolio_Website\\DAL\\Entities\\Portfolio.cs",
-              "RelativeDocumentMoniker": "DAL\\Entities\\Portfolio.cs",
-              "ToolTip": "C:\\Users\\Giray\\Projects\\My_Portfolio_Website\\DAL\\Entities\\Portfolio.cs",
-              "RelativeToolTip": "DAL\\Entities\\Portfolio.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Title": "MyPortfolioContext.cs",
+              "DocumentMoniker": "C:\\Users\\Giray\\Projects\\My_Portfolio_Website\\DAL\\Context\\MyPortfolioContext.cs",
+              "RelativeDocumentMoniker": "DAL\\Context\\MyPortfolioContext.cs",
+              "ToolTip": "C:\\Users\\Giray\\Projects\\My_Portfolio_Website\\DAL\\Context\\MyPortfolioContext.cs",
+              "RelativeToolTip": "DAL\\Context\\MyPortfolioContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-18T20:20:51.634Z",
+              "WhenOpened": "2025-04-20T18:35:44.964Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "SocialMedia.cs",
+              "DocumentMoniker": "C:\\Users\\Giray\\Projects\\My_Portfolio_Website\\DAL\\Entities\\SocialMedia.cs",
+              "RelativeDocumentMoniker": "DAL\\Entities\\SocialMedia.cs",
+              "ToolTip": "C:\\Users\\Giray\\Projects\\My_Portfolio_Website\\DAL\\Entities\\SocialMedia.cs",
+              "RelativeToolTip": "DAL\\Entities\\SocialMedia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T18:26:45.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Experience.cs",
               "DocumentMoniker": "C:\\Users\\Giray\\Projects\\My_Portfolio_Website\\DAL\\Entities\\Experience.cs",
               "RelativeDocumentMoniker": "DAL\\Entities\\Experience.cs",
@@ -60,6 +89,32 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-18T20:18:50.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\Users\\Giray\\Projects\\My_Portfolio_Website\\DAL\\Entities\\Message.cs",
+              "RelativeDocumentMoniker": "DAL\\Entities\\Message.cs",
+              "ToolTip": "C:\\Users\\Giray\\Projects\\My_Portfolio_Website\\DAL\\Entities\\Message.cs",
+              "RelativeToolTip": "DAL\\Entities\\Message.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T18:24:06.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Feature.cs",
+              "DocumentMoniker": "C:\\Users\\Giray\\Projects\\My_Portfolio_Website\\DAL\\Entities\\Feature.cs",
+              "RelativeDocumentMoniker": "DAL\\Entities\\Feature.cs",
+              "ToolTip": "C:\\Users\\Giray\\Projects\\My_Portfolio_Website\\DAL\\Entities\\Feature.cs",
+              "RelativeToolTip": "DAL\\Entities\\Feature.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T20:07:01.842Z",
               "EditorCaption": ""
             },
             {
@@ -77,20 +132,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Feature.cs",
-              "DocumentMoniker": "C:\\Users\\Giray\\Projects\\My_Portfolio_Website\\DAL\\Entities\\Feature.cs",
-              "RelativeDocumentMoniker": "DAL\\Entities\\Feature.cs",
-              "ToolTip": "C:\\Users\\Giray\\Projects\\My_Portfolio_Website\\DAL\\Entities\\Feature.cs",
-              "RelativeToolTip": "DAL\\Entities\\Feature.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\Giray\\Projects\\My_Portfolio_Website\\DAL\\Entities\\Contact.cs",
+              "RelativeDocumentMoniker": "DAL\\Entities\\Contact.cs",
+              "ToolTip": "C:\\Users\\Giray\\Projects\\My_Portfolio_Website\\DAL\\Entities\\Contact.cs",
+              "RelativeToolTip": "DAL\\Entities\\Contact.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-18T20:07:01.842Z",
+              "WhenOpened": "2025-04-20T18:22:29.005Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
+              "Title": "Portfolio.cs",
+              "DocumentMoniker": "C:\\Users\\Giray\\Projects\\My_Portfolio_Website\\DAL\\Entities\\Portfolio.cs",
+              "RelativeDocumentMoniker": "DAL\\Entities\\Portfolio.cs",
+              "ToolTip": "C:\\Users\\Giray\\Projects\\My_Portfolio_Website\\DAL\\Entities\\Portfolio.cs",
+              "RelativeToolTip": "DAL\\Entities\\Portfolio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T20:20:51.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "About.cs",
               "DocumentMoniker": "C:\\Users\\Giray\\Projects\\My_Portfolio_Website\\DAL\\Entities\\About.cs",
               "RelativeDocumentMoniker": "DAL\\Entities\\About.cs",
