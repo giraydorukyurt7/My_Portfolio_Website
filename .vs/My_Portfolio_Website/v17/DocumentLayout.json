@@ -7,8 +7,8 @@
       "RelativeMoniker": "D:0:0:{B97ACADB-788D-4468-913B-620FDA28E4F9}|My_Portfolio_Website.csproj|solutionrelative:views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B97ACADB-788D-4468-913B-620FDA28E4F9}|My_Portfolio_Website.csproj|c:\\users\\giray\\projects\\my_portfolio_website\\views\\shared\\components\\_portfoliocomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B97ACADB-788D-4468-913B-620FDA28E4F9}|My_Portfolio_Website.csproj|solutionrelative:views\\shared\\components\\_portfoliocomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B97ACADB-788D-4468-913B-620FDA28E4F9}|My_Portfolio_Website.csproj|c:\\users\\giray\\projects\\my_portfolio_website\\views\\shared\\components\\_footercomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B97ACADB-788D-4468-913B-620FDA28E4F9}|My_Portfolio_Website.csproj|solutionrelative:views\\shared\\components\\_footercomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,13 +28,13 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Default.cshtml",
-              "DocumentMoniker": "C:\\Users\\Giray\\Projects\\My_Portfolio_Website\\Views\\Shared\\Components\\_PortfolioComponentPartial\\Default.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\Components\\_PortfolioComponentPartial\\Default.cshtml",
-              "ToolTip": "C:\\Users\\Giray\\Projects\\My_Portfolio_Website\\Views\\Shared\\Components\\_PortfolioComponentPartial\\Default.cshtml",
-              "RelativeToolTip": "Views\\Shared\\Components\\_PortfolioComponentPartial\\Default.cshtml",
-              "ViewState": "AgIAANUAAAAAAAAAAAAAAO0AAABnAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Giray\\Projects\\My_Portfolio_Website\\Views\\Shared\\Components\\_FooterComponentPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Components\\_FooterComponentPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\Giray\\Projects\\My_Portfolio_Website\\Views\\Shared\\Components\\_FooterComponentPartial\\Default.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Components\\_FooterComponentPartial\\Default.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADEAAABWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-24T21:18:43.291Z",
+              "WhenOpened": "2025-04-26T20:37:21.275Z",
               "EditorCaption": ""
             },
             {
@@ -45,7 +45,7 @@
               "RelativeDocumentMoniker": "Views\\Default\\Index.cshtml",
               "ToolTip": "C:\\Users\\Giray\\Projects\\My_Portfolio_Website\\Views\\Default\\Index.cshtml",
               "RelativeToolTip": "Views\\Default\\Index.cshtml",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAABcAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAkwBcAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-04-22T20:14:11.61Z",
               "EditorCaption": ""
