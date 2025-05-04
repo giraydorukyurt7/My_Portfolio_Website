@@ -3,20 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Giray\\Projects\\My_Portfolio_Website\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B97ACADB-788D-4468-913B-620FDA28E4F9}|My_Portfolio_Website.csproj|c:\\users\\giray\\projects\\my_portfolio_website\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B97ACADB-788D-4468-913B-620FDA28E4F9}|My_Portfolio_Website.csproj|solutionrelative:views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B97ACADB-788D-4468-913B-620FDA28E4F9}|My_Portfolio_Website.csproj|c:\\users\\giray\\projects\\my_portfolio_website\\views\\shared\\components\\_featurecomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B97ACADB-788D-4468-913B-620FDA28E4F9}|My_Portfolio_Website.csproj|solutionrelative:views\\shared\\components\\_featurecomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B97ACADB-788D-4468-913B-620FDA28E4F9}|My_Portfolio_Website.csproj|c:\\users\\giray\\projects\\my_portfolio_website\\viewcomponents\\_featurecomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B97ACADB-788D-4468-913B-620FDA28E4F9}|My_Portfolio_Website.csproj|solutionrelative:viewcomponents\\_featurecomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B97ACADB-788D-4468-913B-620FDA28E4F9}|My_Portfolio_Website.csproj|c:\\users\\giray\\projects\\my_portfolio_website\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B97ACADB-788D-4468-913B-620FDA28E4F9}|My_Portfolio_Website.csproj|solutionrelative:views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B97ACADB-788D-4468-913B-620FDA28E4F9}|My_Portfolio_Website.csproj|c:\\users\\giray\\projects\\my_portfolio_website\\views\\shared\\components\\_footercomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B97ACADB-788D-4468-913B-620FDA28E4F9}|My_Portfolio_Website.csproj|solutionrelative:views\\shared\\components\\_footercomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 297,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,53 +30,42 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Default.cshtml",
               "DocumentMoniker": "C:\\Users\\Giray\\Projects\\My_Portfolio_Website\\Views\\Shared\\Components\\_FeatureComponentPartial\\Default.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\Components\\_FeatureComponentPartial\\Default.cshtml",
               "ToolTip": "C:\\Users\\Giray\\Projects\\My_Portfolio_Website\\Views\\Shared\\Components\\_FeatureComponentPartial\\Default.cshtml",
               "RelativeToolTip": "Views\\Shared\\Components\\_FeatureComponentPartial\\Default.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-01T17:37:01.038Z",
+              "WhenOpened": "2025-05-04T20:43:28.53Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "_FeatureComponentPartial.cs",
               "DocumentMoniker": "C:\\Users\\Giray\\Projects\\My_Portfolio_Website\\ViewComponents\\_FeatureComponentPartial.cs",
               "RelativeDocumentMoniker": "ViewComponents\\_FeatureComponentPartial.cs",
               "ToolTip": "C:\\Users\\Giray\\Projects\\My_Portfolio_Website\\ViewComponents\\_FeatureComponentPartial.cs",
               "RelativeToolTip": "ViewComponents\\_FeatureComponentPartial.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-30T20:48:54.632Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Default.cshtml",
-              "DocumentMoniker": "C:\\Users\\Giray\\Projects\\My_Portfolio_Website\\Views\\Shared\\Components\\_FooterComponentPartial\\Default.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\Components\\_FooterComponentPartial\\Default.cshtml",
-              "ToolTip": "C:\\Users\\Giray\\Projects\\My_Portfolio_Website\\Views\\Shared\\Components\\_FooterComponentPartial\\Default.cshtml",
-              "RelativeToolTip": "Views\\Shared\\Components\\_FooterComponentPartial\\Default.cshtml",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAADEAAABWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-26T20:37:21.275Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Giray\\Projects\\My_Portfolio_Website\\Views\\Default\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Default\\Index.cshtml",
               "ToolTip": "C:\\Users\\Giray\\Projects\\My_Portfolio_Website\\Views\\Default\\Index.cshtml",
               "RelativeToolTip": "Views\\Default\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-22T20:14:11.61Z"
+              "WhenOpened": "2025-04-22T20:14:11.61Z",
+              "EditorCaption": ""
             }
           ]
         }
