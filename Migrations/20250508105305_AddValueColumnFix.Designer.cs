@@ -3,6 +3,7 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using My_Portfolio_Website.DAL.Context;
 
@@ -11,9 +12,11 @@ using My_Portfolio_Website.DAL.Context;
 namespace My_Portfolio_Website.Migrations
 {
     [DbContext(typeof(MyPortfolioContext))]
-    partial class MyPortfolioContextModelSnapshot : ModelSnapshot
+    [Migration("20250508105305_AddValueColumnFix")]
+    partial class AddValueColumnFix
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
