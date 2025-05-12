@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{B97ACADB-788D-4468-913B-620FDA28E4F9}|My_Portfolio_Website.csproj|solutionrelative:views\\experience\\experiencelist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{B97ACADB-788D-4468-913B-620FDA28E4F9}|My_Portfolio_Website.csproj|c:\\users\\giray\\projects\\my_portfolio_website\\views\\shared\\components\\_layoutsidebarcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B97ACADB-788D-4468-913B-620FDA28E4F9}|My_Portfolio_Website.csproj|solutionrelative:views\\shared\\components\\_layoutsidebarcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B97ACADB-788D-4468-913B-620FDA28E4F9}|My_Portfolio_Website.csproj|c:\\users\\giray\\projects\\my_portfolio_website\\controllers\\experiencecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B97ACADB-788D-4468-913B-620FDA28E4F9}|My_Portfolio_Website.csproj|solutionrelative:controllers\\experiencecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -34,15 +38,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UpdateExperience.cshtml",
-              "DocumentMoniker": "C:\\Users\\Giray\\Projects\\My_Portfolio_Website\\Views\\Experience\\UpdateExperience.cshtml",
-              "RelativeDocumentMoniker": "Views\\Experience\\UpdateExperience.cshtml",
-              "ToolTip": "C:\\Users\\Giray\\Projects\\My_Portfolio_Website\\Views\\Experience\\UpdateExperience.cshtml",
-              "RelativeToolTip": "Views\\Experience\\UpdateExperience.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAkAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\Giray\\Projects\\My_Portfolio_Website\\Views\\Shared\\Components\\_LayoutSidebarComponentPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Components\\_LayoutSidebarComponentPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\Giray\\Projects\\My_Portfolio_Website\\Views\\Shared\\Components\\_LayoutSidebarComponentPartial\\Default.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Components\\_LayoutSidebarComponentPartial\\Default.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAC4AAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-11T16:09:52.601Z",
+              "WhenOpened": "2025-05-12T20:15:25.219Z",
               "EditorCaption": ""
             },
             {
@@ -53,14 +57,26 @@
               "RelativeDocumentMoniker": "Views\\Experience\\ExperienceList.cshtml",
               "ToolTip": "C:\\Users\\Giray\\Projects\\My_Portfolio_Website\\Views\\Experience\\ExperienceList.cshtml",
               "RelativeToolTip": "Views\\Experience\\ExperienceList.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABEAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-05-09T14:48:36.383Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
+              "Title": "UpdateExperience.cshtml",
+              "DocumentMoniker": "C:\\Users\\Giray\\Projects\\My_Portfolio_Website\\Views\\Experience\\UpdateExperience.cshtml",
+              "RelativeDocumentMoniker": "Views\\Experience\\UpdateExperience.cshtml",
+              "ToolTip": "C:\\Users\\Giray\\Projects\\My_Portfolio_Website\\Views\\Experience\\UpdateExperience.cshtml",
+              "RelativeToolTip": "Views\\Experience\\UpdateExperience.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-11T16:09:52.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "ExperienceController.cs",
               "DocumentMoniker": "C:\\Users\\Giray\\Projects\\My_Portfolio_Website\\Controllers\\ExperienceController.cs",
               "RelativeDocumentMoniker": "Controllers\\ExperienceController.cs",
@@ -68,12 +84,11 @@
               "RelativeToolTip": "Controllers\\ExperienceController.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T20:28:18.135Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-10T20:28:18.135Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Giray\\Projects\\My_Portfolio_Website\\Views\\Layout\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Layout\\Index.cshtml",
@@ -81,8 +96,7 @@
               "RelativeToolTip": "Views\\Layout\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-09T14:25:08.575Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-09T14:25:08.575Z"
             }
           ]
         }
